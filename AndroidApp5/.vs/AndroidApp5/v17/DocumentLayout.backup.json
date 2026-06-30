@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57ABB537-98A9-4E1A-8AAE-42D882EEDEC4}|AndroidApp5.csproj|c:\\users\\tgemj\\onedrive\\shared\\c108\\cs_android\\androidapp5\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ABB537-98A9-4E1A-8AAE-42D882EEDEC4}|AndroidApp5.csproj|solutionrelative:mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ABB537-98A9-4E1A-8AAE-42D882EEDEC4}|AndroidApp5.csproj|c:\\users\\tgemj\\onedrive\\shared\\c108\\cs_android\\androidapp5\\resources\\layout\\activity_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{57ABB537-98A9-4E1A-8AAE-42D882EEDEC4}|AndroidApp5.csproj|solutionrelative:resources\\layout\\activity_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57ABB537-98A9-4E1A-8AAE-42D882EEDEC4}|AndroidApp5.csproj|c:\\users\\tgemj\\onedrive\\shared\\c108\\cs_android\\androidapp5\\mcp2221a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57ABB537-98A9-4E1A-8AAE-42D882EEDEC4}|AndroidApp5.csproj|solutionrelative:mcp2221a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-06-22T01:08:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:08:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MCP2221A.cs",
+              "DocumentMoniker": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\MCP2221A.cs",
+              "RelativeDocumentMoniker": "MCP2221A.cs",
+              "ToolTip": "C:\\Users\\tgemj\\OneDrive\\Shared\\C108\\CS_Android\\AndroidApp5\\MCP2221A.cs",
+              "RelativeToolTip": "MCP2221A.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:08:09.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
