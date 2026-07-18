@@ -62,6 +62,12 @@ namespace MCP2221A
             myendpointin = myusbinterface.GetEndpoint(0);
             var myclaim = myusbconnection.ClaimInterface(myusbinterface, true);
             //Log.Info(TAG, "Claim="+myclaim);
+            pinMode4([
+                INPUT,
+                INPUT,
+                INPUT,
+                INPUT
+            ]);
         }
 
         public static USB2GROVE? create(Context mycontext)
@@ -246,7 +252,7 @@ namespace MCP2221A
         }
 
         //HIDバッファ書き込み(64バイト配列) 
-        byte[] SendData(byte[] buf)
+        private byte[] SendData(byte[] buf)
         {
             int written;
             written = myusbconnection.BulkTransfer(myendpointout, buf, 64, 30);
